@@ -1,0 +1,32 @@
+body {
+     margin: 0;
+     padding: 0;
+}
+.header {
+     height: 100px;
+     width: 1300px;
+     background: green;
+     border-radius: 20px;
+}
+.container {
+     display: flex;
+}
+.menu {
+     height: 600px;
+     width: 300px;
+     background: orange;
+     border-radius: 20px;
+}
+.post {
+     height: 300px;
+     width: 1000px;
+     background: tomato;
+     flex-direction: column;
+     border-radius: 20px;
+}
+.footer {
+     height: 100px;
+     width: 1300px;
+     background: green;
+     border-radius: 20px;
+}
